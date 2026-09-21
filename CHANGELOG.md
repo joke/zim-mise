@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/joke/zim-mise/compare/v1.0.0...v1.1.0) (2026-09-21)
+
+
+### Features
+
+* enable Mise support for MSYS2/Cygwin environments ([bb4ed77](https://github.com/joke/zim-mise/commit/bb4ed778462b232c4383316f8f6c44260f7de20c))
+
+
+### Bug Fixes
+
+* refactor path normalization for Windows compatibility ([6a3888b](https://github.com/joke/zim-mise/commit/6a3888b047c5b7f8440e76c8bf2116ecc150d313))
+
 ## 1.0.0 (2024-01-06)
 
 
