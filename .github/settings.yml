@@ -1,6 +1,6 @@
-_extends: workflows
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 repository:
+  web_commit_signoff_required: false
   name: zim-mise
   description: zim module for mise
   topics: zim, zimfw, module, zsh, mise
