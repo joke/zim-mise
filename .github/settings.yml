@@ -1,4 +1,3 @@
-_extends: workflows
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 repository:
   web_commit_signoff_required: false
